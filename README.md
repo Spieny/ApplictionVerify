@@ -1,2 +1,6 @@
 # ApplictionVerify
-None.
+Test for my appliction.
+
+Verify Hardware ID.
+
+Spieny.
